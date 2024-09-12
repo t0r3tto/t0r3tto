@@ -21,12 +21,11 @@ I'm an enthusiastic developer with a diverse skill set in programming languages,
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## 🌟 Projects
-[![qbcore](https://img.shields.io/badge/qbcore-D32F2F?style=for-the-badge&logo=fivem&logoColor=white)](https://github.com/qbcore-framework)
-[![Catena](https://img.shields.io/badge/Catena-FF0000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/catena)
+[![qbox](https://img.shields.io/badge/qbox-ffff00?style=for-the-badge&logo=fivem&logoColor=black)](https://github.com/qbox-project)
+[![Warlight](https://img.shields.io/badge/Warlight-AC6F00?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/warlight)
 
 
 ## 📫 Contact Me
-[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:thetoretto@protonmail.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/catena)
+[![Email](https://img.shields.io/badge/Email-admin@toretto.dev-blue?style=for-the-badge)](mailto:admin@toretto.dev)
 
 ---

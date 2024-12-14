@@ -20,11 +20,6 @@ I'm an enthusiastic developer with a diverse skill set in programming languages,
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## 🌟 Projects
-[![qbox](https://img.shields.io/badge/qbox-ffff00?style=for-the-badge&logo=fivem&logoColor=black)](https://github.com/qbox-project)
-[![Warlight](https://img.shields.io/badge/Warlight-AC6F00?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/warlight)
-
-
 ## 📫 Contact Me
 [![Email](https://img.shields.io/badge/Email-admin@toretto.dev-blue?style=for-the-badge)](mailto:admin@toretto.dev)
 
